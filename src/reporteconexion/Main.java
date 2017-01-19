@@ -19,7 +19,7 @@ import net.sf.jasperreports.export.SimpleOutputStreamExporterOutput;
 import net.sf.jasperreports.export.SimplePdfExporterConfiguration;
 import net.sf.jasperreports.view.JRViewer;
 
-public class ReporteConexion {
+public class Main {
     
     public static void main(String[] args) {
         
